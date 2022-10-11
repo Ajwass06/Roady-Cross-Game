@@ -1,9 +1,11 @@
 ROADY CROSS INSTRUCTIONS
 
 **Objective of the Game**
+
 Collect coins while avoiding traffic. If the dog gets hit by a car, it will lose one of its *three lives*. If you collect 10 coins, you will win the game.
 
 **Instructions**
+
 Press SELECT to start the game
 
 Use the UP, DOWN, LEFT, RIGHT buttons to navigate the dog across the road
